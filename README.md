@@ -40,7 +40,7 @@ For a personalized hearing profile on compatible AirPods Pro 2 or 3, use Hearing
 - Android 17 or later on an ARM64 device. 
 - Compatible AirPods paired and connected in Android Bluetooth settings.
 - Nearby devices permission for the AirPods connection. Pixel microphone listening also requests microphone permission.
-```
+
 
 ## Privacy and limitations
 
