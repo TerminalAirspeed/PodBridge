@@ -5,6 +5,8 @@
 
 This is a personal test build. Bluetooth behavior and feature availability depend on the AirPods model, firmware, and Android audio route. The Android APK and physical AirPods behavior still need device testing.
 
+## PodBridge has NO INTERNET ACCESS
+
 ## Screenshots
 
 ### Main screen
