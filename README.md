@@ -5,6 +5,8 @@
 
 This is a personal test build. Bluetooth behavior and feature availability depend on the AirPods model, firmware, and Android audio route. The Android APK and physical AirPods behavior still need device testing.
 
+PodBridge is currently in beta testing and is under active development. User feedback is greatly appreciated and will help guide future improvements. I welcome suggestions for new features, usability enhancements, performance improvements, and any bugs or issues encountered. Your input will help make PodBridge more reliable, and user-friendly.
+
 ## PodBridge has NO INTERNET ACCESS
 
 ## Screenshots
